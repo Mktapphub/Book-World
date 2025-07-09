@@ -31,7 +31,7 @@ _An app where you can read, organize, and download millions of books — complet
 Only screenshots and a partial portion of the source code are provided in this repository for demonstration purposes. The full application and source code are protected for security reasons.
 
 If you are interested in accessing the complete app, please contact the developer directly:  
-📧 **minhajul.cse.bd@gmail.com**
+📧 **mkt9319@gmail.com**
 
 ---
 
@@ -49,6 +49,4 @@ If you are interested in accessing the complete app, please contact the develope
 - Platform: **Android**
 
 ---
-
-## 📁 Project Structure (Partial)
 
