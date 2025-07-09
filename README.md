@@ -38,7 +38,7 @@ If you are interested in accessing the complete app, please contact the develope
 ## 📸 Screenshots
 
 
-| ![Home](screenshots/home.png) | ![Info](screenshots/info.png) | ![Reader](screenshots/reader.png) |
+| ![Home](screenshots/screenshot_1.jpg) | ![list](screenshots/screenshot_2.jpg) | ![Info](screenshots/screenshot_3.jpg) |
 
 ---
 
